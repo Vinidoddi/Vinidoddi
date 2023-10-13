@@ -11,7 +11,6 @@ Olá eu Sou o Vinicius 👋
  <h3>📊 Github Analytics</h3>
   <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=Vinidoddi&theme=tokyonight" /> 
   <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Vinidoddi&layout=compact&theme=tokyonight"/>
-</div>
   <img align="center" alt="" height="30" width="40" 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
